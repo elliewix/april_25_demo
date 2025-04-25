@@ -4,10 +4,10 @@ This is some text.
 
 ## Here is a subheader
 
-And more text here.
+And more text here, if you want.
 
 ## another subheader
 
-* point 1
-* point 2
-* point 3
+* point a
+* point b
+* point c
